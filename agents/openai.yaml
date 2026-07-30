@@ -1,0 +1,4 @@
+interface:
+  display_name: "Web Artifacts Builder"
+  short_description: "Build and bundle rich React artifacts locally"
+  default_prompt: "Use $web-artifacts-builder to create and bundle a polished multi-component React artifact."
